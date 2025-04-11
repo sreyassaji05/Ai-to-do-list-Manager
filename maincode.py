@@ -6,7 +6,7 @@ import os
 app = Flask(__name__)
 
 # Configure Gemini API key
-genai.configure(api_key="AIzaSyDQ2D3_mSHgRpKkYIXE0Cu5OMMszVe5eUM")  # Replace with your actual Gemini API key
+genai.configure(api_key="enter your google api key")  # Replace with your actual Gemini API key
 
 TASKS_FILE = "tasks.json"
 
