@@ -52,4 +52,6 @@ app.py          # Main Flask app
 tasks.json      # Stores tasks  
 README.md       # Project info  
 ```
+## License
+This project is licensed under the MIT License.
 
